@@ -1,0 +1,7 @@
+safe-mol==0.2.0
+rdkit==2025.9.1
+datamol==0.13.0
+numpy==2.5.2
+networkx==3.6.1
+loguru==0.7.3
+tqdm==4.70.1
